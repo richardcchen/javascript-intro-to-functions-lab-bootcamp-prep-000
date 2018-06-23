@@ -10,5 +10,4 @@ function logShout(string) {
   console.log('HELLO')
 }
 
-function logWhisper(string)
   
